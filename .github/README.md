@@ -1,11 +1,11 @@
-<h1 align="center">Alicia Sykes - CV</h1>
+<h1 align="center">Kyle Oliphant - CV</h1>
 <p align="center">
-<a href="https://github.com/Lissy93/cv"><img src="https://i.ibb.co/G4vGDwtD/cv-logo.png?" width="48" /><br /></a>
-<i>This repo contains the source for my personal CV</i>
+<a href="https://thekylestyle.com/"><img src="https://thekylestyle.com/assets/images/logo-all-white-429x127.png" width="127" /><br /></a>
+<i>This repo contains the source for my personal CV - Forked from <a href="https://github.com/lissy93/cv">Alicia Sykes</a></i>
 <br />
 <i>A website (Svelte) and PDF (LaTeX) auto-built from jsonresume data</i>
 <br />
-<b>🌐 <a href="https://cv.aliciasykes.com/">cv.aliciasykes.com</a> | 📄 <a href="https://cv.aliciasykes.com/download"><code>Alicia-Sykes-CV.pdf</code></a></b> <br />
+<b>🌐 <a target="_blank" href="https://menu.thekylestyle.com/"><code>Menu of Services</code></a> | 📄 <a href="https://links.thekylestyle.com" target="_blank"><code>Contact Me</code></a></b> <br />
 </p>
 
 
@@ -207,4 +207,5 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
               |     /          |     /     ~-.     ~- _
               |_____|          |_____|         ~ - . _ _~_-_
 -->
+
 
