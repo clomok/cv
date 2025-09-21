@@ -5,13 +5,8 @@ basics:
   location:
     address: San Diego, CA
 personal-statement: |
-  I help organisations turn complex technical challenges into simple,
-  scalable solutions that make a real difference for users and teams.
-  I've led multi-team organisations, modernised large-scale systems,
-  and built high-performance cultures grounded in openness, inclusion,
-  and technical excellence.
-  I'm passionate about open source, user privacy, and leaving a lasting
-  impact at both company and community level.
+  I help businesses maintain their IT sanity.  
+  I help companies protect their critical data and reputation without disrupting their workflow with slow, confusing security measures.
 extra-links:
   work_history:
     text: See all previous roles at linkedin.com/in/kyle-oliphant-cyber-security
@@ -20,7 +15,7 @@ extra-links:
     text: See my menu of services at menu.thekylestyle.com
     link: https://menu.thekylestyle.com/
 education:
-- institution: Oxford Brookes
+- institution: San Diego State Univerity
   area: Computer Science
   studyType: BSc
   startDate: ''
