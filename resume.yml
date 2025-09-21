@@ -1,9 +1,9 @@
 basics:
-  name: Alicia Sykes
-  email: hello@aliciasykes.com
-  url: https://github.com/lissy93
+  name: Kyle Oliphant
+  email: kyle@thekylestyle.com
+  url: https://github.com/clomok
   location:
-    address: London, UK
+    address: San Diego, CA
 personal-statement: |
   I help organisations turn complex technical challenges into simple,
   scalable solutions that make a real difference for users and teams.
@@ -14,11 +14,11 @@ personal-statement: |
   impact at both company and community level.
 extra-links:
   work_history:
-    text: See all previous roles at linkedin.com/in/aliciasykes
-    link: https://linkedin.com/in/aliciasykes
+    text: See all previous roles at linkedin.com/in/kyle-oliphant-cyber-security
+    link: https://linkedin.com/in/kyle-oliphant-cyber-security/
   projects:
-    text: See example projects built with each technology at apps.aliciasykes.com
-    link: https://apps.aliciasykes.com/
+    text: See my menu of services at menu.thekylestyle.com
+    link: https://menu.thekylestyle.com/
 education:
 - institution: Oxford Brookes
   area: Computer Science
